@@ -1,6 +1,6 @@
-# myapp
+# To-Do App
 
-A new Flutter project.
+Basic To-Do App in Flutter built with idx.google.com
 
 ## Getting Started
 
